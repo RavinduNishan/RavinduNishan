@@ -1,8 +1,7 @@
-<p align="center"><img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/06f21a161921919.63cd7887d0a70.gif" alt="Alt Text" width="300px"></p>
-<h1 align="center"> <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/>  HELLO 👋, I'm Ravindu Nishan   <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Alt Text" width="300px"></p>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width = 30px/>  HELLO 👋 I am Ravindu Nishan   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width = 30px/></h1>
 <h3 align="center"> --Enthusiastic backend Developer-- </h3>
 <p align="center"> As a fervent backend developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in  back-end development </p>
-<p align="center"> <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="sahan-weerakkody" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -21,17 +20,16 @@
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ravindurathnayake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/21332301/iamsahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
-<a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
-<a href="https://discord.com/users/1081609684194168996" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>  
+<a href="www.linkedin.com/in/ravindurathnayake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Ravindu Nishan" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/23341511/ravindu-nishan-rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Ravindu Rathnayake" height="50" width="50" /></a>
+<a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ravindu Nishan" height="50" width="50" /></a>
+<a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a> 
 </p>
 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="400" src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
   
   </td>
@@ -46,13 +44,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en&theme=dark" alt="iamsahan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RavinduNishan&show_icons=true&locale=en&theme=dark" alt="RavinduNishan" />
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&theme=dark" alt="iamsahan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduNishan&theme=dark" alt="RavinduNishan" />
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&hide_border=false&no-frame=true&langs_count=10&theme=dark"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RavinduNishan&hide_border=false&no-frame=true&langs_count=10&theme=dark"/>
   
   </td>
 </tr>
