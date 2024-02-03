@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/06f21a161921919.63cd7887d0a70.gif" alt="Alt Text" width="300px"></p>
-<h1 align="center"> <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/>  HELLO 👋, I'm Sahan Weerakkody   <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/></h1>
-<h3 align="center"> --Enthusiastic Full-stack Developer-- </h3>
-<p align="center"> As a fervent full-stack developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in both front-end and back-end development </p>
+<h1 align="center"> <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/>  HELLO 👋, I'm Ravindu Nishan   <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/></h1>
+<h3 align="center"> --Enthusiastic backend Developer-- </h3>
+<p align="center"> As a fervent backend developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in  back-end development </p>
 <p align="center"> <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="sahan-weerakkody" /> </p>
 
 <table align="center">
@@ -10,18 +10,18 @@
 
 - 🧑‍🎓 Software Engineering Undergraduate at **SLIIT**
 
-- 🔰 I’m currently learning **Flutter**
+- 🔰 I’m currently learning **MERN**
 
 - ❇️ Ask me about **React**
 
-- 😜 How to reach me **weerakkodyse@gmail.com**
+- ✉️ How to reach me **nish.ravindu@gmail.com**
   
 - 🌵 Visit <a href="https://iamsahan.live/">My Portfolio</a>
 
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sahanerandikaweerakkody" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/ravindurathnayake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/21332301/iamsahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
 <a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
