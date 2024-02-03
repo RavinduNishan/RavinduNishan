@@ -20,7 +20,7 @@
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ravindurathnayake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Ravindu Nishan" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ravindurathnayake" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Ravindu Nishan" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/23341511/ravindu-nishan-rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Ravindu Rathnayake" height="50" width="50" /></a>
 <a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ravindu Nishan" height="50" width="50" /></a>
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a> 
