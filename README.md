@@ -9,9 +9,9 @@
 
 - 🧑‍🎓 Software Engineering Undergraduate at **SLIIT**
 
-- 🔰 I’m currently learning **MERN**
+- 🔰 I’m currently learning **Kotkin**
 
-- ❇️ Ask me about **React**
+- ❇️ Ask me about **MERN**
 
 - ✉️ How to reach me **nish.ravindu@gmail.com**
   
