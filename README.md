@@ -15,7 +15,7 @@
 
 - ✉️ How to reach me **nish.ravindu@gmail.com**
   
-- 🌵 Visit <a href="https://iamsahan.live/">My Portfolio</a>
+<!--- 🌵 Visit <a href="https://iamsahan.live/">My Portfolio</a>-->
 
 <br/>
 <h3 align="center">Connect with me:</h3>
