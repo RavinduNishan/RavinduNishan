@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 Software Engineering Undergraduate at **SLIIT**
 
-- 🔰 I’m currently learning **Kotkin**
+- 🔰 I’m currently learning **Kotlin**
 
 - ❇️ Ask me about **MERN**
 
