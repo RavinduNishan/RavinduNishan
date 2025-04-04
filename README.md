@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Alt Text" width="300px"></p>
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width = 30px/>  HELLO 👋 I am Ravindu Nishan   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width = 30px/></h1>
-<h3 align="center"> --Enthusiastic backend Developer-- </h3>
-<p align="center"> As a fervent backend developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in  back-end development </p>
+<h3 align="center"> --Enthusiastic fullstack Developer-- </h3>
+<p align="center"> As a fervent full-stack developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in  full-stack development </p>
 
 <table align="center">
 <tr border="none">
@@ -84,6 +84,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="c" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg" alt="c" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="c" width="50" height="50"/>
+  
 </p>
 
 ---
